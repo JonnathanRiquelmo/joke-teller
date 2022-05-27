@@ -1,14 +1,14 @@
 <h1 align="center" id="top">Joke Teller</h1>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 ![Joke Teller](./assets/screenshot.png)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <h1 align="center"><a href="https://jonnathanriquelmo.github.io/joke-teller/"><strong>LIVE DEMO</strong></a></h3>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <h2 id="table-of-contents"> 📖 Table of Contents</h2>
 
@@ -25,7 +25,7 @@
   </details>
 </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
@@ -34,7 +34,7 @@
 A joke telling app made in vanilla JavaScript. This project uses JokeAPI to receive the jokes and a Text-to-speech (TTS) API to tell the user the jokes. Based on a <a href="https://zerotomastery.io/" target="_blank">ZTM</a> JavaScript course.
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- technologies -->
 <h2 id="technologies"> 🛠 Technologies</h2>
@@ -47,7 +47,7 @@ A joke telling app made in vanilla JavaScript. This project uses JokeAPI to rece
 - [JokeAPI](https://sv443.net/jokeapi/v2/)
 - [VoiceRSS API](https://www.voicerss.org/sdk/javascript.aspx/)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- prerequisites -->
 <h2 id="prerequisites"> ✔️ Prerequisites</h2>
@@ -57,7 +57,7 @@ A joke telling app made in vanilla JavaScript. This project uses JokeAPI to rece
 - [Git](https://git-scm.com/)
 - A code editor <i>e.g.</i> [VSCode](https://code.visualstudio.com/)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- installation -->
 <h2 id="installation"> 🖥️ Installation</h2>
@@ -65,7 +65,8 @@ A joke telling app made in vanilla JavaScript. This project uses JokeAPI to rece
 <p>Clone the repo in the terminal, or command line in your code editor</p>
 <pre><code>git clone https://github.com/JonnathanRiquelmo/joke-teller.git </code></pre>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
+
 <!-- author -->
 <h2 id="author"> 📜 Author</h2>
 
