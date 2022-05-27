@@ -62,7 +62,7 @@ A joke telling app made in vanilla JavaScript. This project uses JokeAPI to rece
 <!-- installation -->
 <h2 id="installation"> 🖥️ Installation</h2>
 
-<p>Clone the repo in the terminal or command line in your code editor</p>
+<p>Clone the repo in the terminal, or command line in your code editor</p>
 <pre><code>git clone https://github.com/JonnathanRiquelmo/joke-teller.git </code></pre>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
